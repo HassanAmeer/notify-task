@@ -17,7 +17,7 @@ class MaterialColors {
     },
   );
   static const int _deepOrangePrimaryValue = 0xFFFF5722;
-}
+} 
 
 //  static const MaterialColor deepPurple = MaterialColor(
 //     _deepPurplePrimaryValue,

@@ -31,13 +31,10 @@
   <td style='width:24%;'>
   <img style='width:100%;' src='img6.png'>
   </td>
-   <td style='width:24%;'>
-  <img style='width:100%;' src='img6.png'>
+   <td style='width:48%;'>
+  <img style='width:100%;' src='dependencies.png.png'>
   </td>
    </td>
-   <td style='width:24%;'>
-  <img style='width:100%;' src='img6.png'>
-  </td>
 </table>
 
 ## Getting Started
