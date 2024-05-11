@@ -32,7 +32,7 @@
   <img style='width:100%;' src='img6.png'>
   </td>
    <td style='width:48%;'>
-  <img style='width:100%;' src='dependencies.png.png'>
+  <img style='width:100%;' src='dependencies.png'>
   </td>
    </td>
 </table>
