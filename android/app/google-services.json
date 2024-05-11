@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "294794957668",
+    "project_id": "abshar-todo-task",
+    "storage_bucket": "abshar-todo-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294794957668:android:6776e234b14667e03da071",
+        "android_client_info": {
+          "package_name": "com.abshar.todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294794957668-92esdbduat6jr52df0ufhkmb3j6oi87g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXahqyWcMMEDplsBFYDTx0jEQjlW_fEFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294794957668-92esdbduat6jr52df0ufhkmb3j6oi87g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "294794957668-4atbt40s0h9ht6j9mkuodaukjd7t82ml.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.payroletask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
